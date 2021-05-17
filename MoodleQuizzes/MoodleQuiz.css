@@ -1,0 +1,41 @@
+ <style>
+body {background-color: whitesmoke;}
+h1   {color: black;}
+p    {color: black;}
+th {
+	font-weight:normal;
+	text-align:left;
+}
+td  {
+	font-size:14pt;
+}
+table  {
+	border-collapse:collapse;
+	empty-cells:show;
+}
+#germanRules table{
+	width:75%;
+}
+#germanRules td {
+	vertical-align:middle;
+	text-align:left;
+}
+#germanRules td.sym {
+	vertical-align:middle;
+	text-align:left;
+    background-color:#E8E8E8;
+}
+        
+#germanRules th.titol  {
+    font-size:14pt;
+    color:Black;
+	text-align:left;
+    font-weight: bold;
+	background-color:#E8E8E8;
+}
+
+#moodleQuiz {
+    background-color: whitesmoke;
+        }
+
+</style>
